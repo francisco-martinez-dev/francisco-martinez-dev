@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hola, soy Francisco Martínez 👋
 
-<!--
-**francisco-martinez-dev/francisco-martinez-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Front-End con experiencia en Angular y formación en Ingeniería de
+Software y Ciencia de Datos. Me interesa construir interfaces útiles y seguir
+creciendo hacia el desarrollo full-stack.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías que manejo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 💼 Experiencia destacada
+
+**Pasantía Front-End Junior — Banco Cuscatlán (2022)**
+Desarrollé componentes en Angular 13 para aplicaciones internas, integré APIs REST
+y trabajé bajo metodología SCRUM en equipo multidisciplinario.
+
+## 🎓 Formación
+
+- Ingeniería en Desarrollo de Software y Ciencia de Datos — UEES (2025 — actualidad)
+- Técnico en Desarrollo de Software — INAC (2018 — 2020)
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/francisco-alejandro-martinez-linares)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:franciscolinares000@gmail.com)
