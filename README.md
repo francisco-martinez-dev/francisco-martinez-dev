@@ -29,3 +29,8 @@ y trabajé bajo metodología SCRUM en equipo multidisciplinario.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/francisco-alejandro-martinez-linares)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:franciscolinares000@gmail.com)
+
+## 🚀 Actualmente aprendiendo
+
+- Git y GitHub flujo de trabajo profesional
+- Desarrollo Full-Stack con Angular y Laravel
