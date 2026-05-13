@@ -26,6 +26,7 @@ y trabajé bajo metodología SCRUM en equipo multidisciplinario.
 |---|---|---|
 | [💧 Water Quality Dashboard](https://github.com/francisco-martinez-dev/water-quality-dashboard) | Panel de monitoreo de contaminantes en fuentes de agua de El Salvador | HTML, CSS, JS, Canvas API |
 | [💳 FinTrack](https://github.com/francisco-martinez-dev/fintrack) | Panel de registro y visualización de transacciones financieras | HTML, CSS, JS, localStorage |
+| [💳 Tarjeta de Crédito Interactiva](https://github.com/francisco-martinez-dev/credit-card-flip) | Componente interactivo con efecto flip 3D al ingresar el CVV | HTML, CSS3 3D, JS |
 
 ## 🎓 Formación
 
